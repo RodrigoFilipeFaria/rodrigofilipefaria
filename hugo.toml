@@ -1,5 +1,5 @@
 baseURL = "https://rodrigofilipefaria.pages.dev"
-title = "Rodrigo F. Faria"
+title = "Faria's Terminal"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -27,7 +27,7 @@ pagerSize = 20
     languageName = "🇬🇧"
     weight = 1
     contentDir = "content/en"
-    title = "RFF"
+    title = "Faria's Terminal"
     
     [languages.en.params]
       author = "Rodrigo Filipe Faria"
@@ -76,7 +76,7 @@ pagerSize = 20
     languageName = "🇵🇹"
     weight = 2
     contentDir = "content/pt"
-    title = "RFF"
+    title = "Faria's Terminal"
 
     [languages.pt.params]
       author = "Rodrigo Filipe Faria"
