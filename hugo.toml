@@ -1,4 +1,4 @@
-baseURL = "https://www.rodrigofilipefaria.pages.dev"
+baseURL = "https://rodrigofilipefaria.pages.dev"
 title = "RFF"
 theme = "hugo-coder"
 languageCode = "en"
