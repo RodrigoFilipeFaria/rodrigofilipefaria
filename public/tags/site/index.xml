@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site on RFF</title>
+    <link>http://localhost:1313/tags/site/</link>
+    <description>Recent content in Site on RFF</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Jul 2025 03:13:04 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Novo site!!!</title>
+      <link>http://localhost:1313/posts/novo-site/</link>
+      <pubDate>Tue, 08 Jul 2025 03:13:04 +0100</pubDate>
+      <guid>http://localhost:1313/posts/novo-site/</guid>
+      <description>&lt;h1 id=&#34;um-sitio-seguro&#34;&gt;&#xA;  Um sitio seguro&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#um-sitio-seguro&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Muitas das vezes encontro-me com várias ideias de conversa, todas elas suficientes para escrever um livro, por isso, decidi criar esta area de blog para poder falar sobre os tópicos da atualidade, focando sempre em tecnologia é claro, mas também explorando ética humana.&lt;/p&gt;&#xA;&lt;p&gt;Seria irracional da minha parte não especificar o que irei falar, por isso eis alguns temas:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

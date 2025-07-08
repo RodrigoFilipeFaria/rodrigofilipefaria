@@ -1,0 +1,122 @@
+baseURL = "https://www.example.com"
+title = "RFF"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[pagination]
+pagerSize = 20
+
+[services]
+  [services.disqus]
+    shortname = "rodrigofilipefaria"
+
+[markup.highlight]
+  style = "github-dark"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+[languages]
+
+  [languages.en]
+    languageName = "🇬🇧"
+    weight = 1
+    contentDir = "content/en"
+    title = "RFF"
+    
+    [languages.en.params]
+      author = "Rodrigo Filipe Faria"
+      info = "Cybersecurity & Network Engineer"
+      description = "Rodrigo Faria's personal website"
+      keywords = "blog,developer,personal"
+      avatarurl = "images/avatar.jpg"
+      faviconSVG = "/img/favicon.svg"
+      favicon_32 = "/img/favicon-32x32.png"
+      favicon_16 = "/img/favicon-16x16.png"
+      since = 2025
+      enableTwemoji = true
+      colorScheme = "auto"
+      hidecolorschemetoggle = false
+
+    [[languages.en.menu.main]]
+      name = "Blog"
+      url = "/en/posts/"
+      weight = 1
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/en/about/"
+      weight = 2
+#   [[languages.en.menu.main]]
+#     name = "Projects"
+#     url = "/en/projects/"
+#     weight = 3
+
+    [[languages.en.params.social]]
+      name = "Github"
+      icon = "fa-brands fa-github fa-2x"
+      weight = 1
+      url = "https://github.com/RodrigoFilipeFaria"
+    [[languages.en.params.social]]
+      name = "Instagram"
+      icon = "fa-brands fa-instagram fa-2x"
+      weight = 2
+      url = "https://www.instagram.com/rodrigofilipefaria/"
+    [[languages.en.params.social]]
+      name = "LinkedIn"
+      icon = "fa-brands fa-linkedin fa-2x"
+      weight = 3
+      url = "https://www.linkedin.com/in/rodrigo-faria-298655213/"
+
+  [languages.pt]
+    languageName = "🇵🇹"
+    weight = 2
+    contentDir = "content/pt"
+    title = "RFF"
+
+    [languages.pt.params]
+      author = "Rodrigo Filipe Faria"
+      info = "Engenheiro de Redes e Cibersegurança"
+      description = "Website pessoal de Rodrigo Faria"
+      keywords = "blog,programação,pessoal"
+      avatarurl = "images/avatar.jpg"
+      faviconSVG = "/img/favicon.svg"
+      favicon_32 = "/img/favicon-32x32.png"
+      favicon_16 = "/img/favicon-16x16.png"
+      since = 2025
+      enableTwemoji = true
+      colorScheme = "auto"
+      hidecolorschemetoggle = false
+
+    [[languages.pt.menu.main]]
+      name = "Blogue"
+      url = "/pt/posts/"
+      weight = 1
+    [[languages.pt.menu.main]]
+      name = "Sobre"
+      url = "/pt/about/"
+      weight = 2
+#[[languages.pt.menu.main]]
+#     name = "Projetos"
+#     url = "/pt/projects/"
+#     weight = 3
+
+    [[languages.pt.params.social]]
+      name = "Github"
+      icon = "fa-brands fa-github fa-2x"
+      weight = 1
+      url = "https://github.com/RodrigoFilipeFaria"
+    [[languages.pt.params.social]]
+      name = "Instagram"
+      icon = "fa-brands fa-instagram fa-2x"
+      weight = 2
+      url = "https://www.instagram.com/rodrigofilipefaria/"
+    [[languages.pt.params.social]]
+      name = "LinkedIn"
+      icon = "fa-brands fa-linkedin fa-2x"
+      weight = 3
+      url = "https://www.linkedin.com/in/rodrigo-faria-298655213/"
